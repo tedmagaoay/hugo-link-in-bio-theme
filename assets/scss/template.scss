@@ -115,3 +115,26 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+// Link in bio
+
+#profile {
+  padding: 30px 10px 10px 10px;
+}
+
+.card-simple {
+  margin-top: 15px;
+  border-radius: 0;
+}
+
+.card-simple:first-of-type {
+  margin-top: 15px;
+}
+
+.article-metadata {
+  margin-bottom: 0px;
+}
+
+.article-title {
+  margin-top: 0.25rem !important;
+}
