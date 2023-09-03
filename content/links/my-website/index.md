@@ -1,12 +1,12 @@
 ---
-title: "Magaoay Org Website"
+title: "My Website"
 summary: ""
 authors:
 - 
 tags:
 - 
-weight: 
-external_link: "https://www.magaoay.org"
+weight: 8
+external_link: "https://hugo-academic-pages.netlify.app/"
 show_date: false
 # links:
 #   - icon_pack: fas

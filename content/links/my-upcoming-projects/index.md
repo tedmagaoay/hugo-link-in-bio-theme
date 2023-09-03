@@ -1,12 +1,12 @@
 ---
-title: "Cafirma Org Website"
+title: "My Upcoming Projects"
 summary: ""
 authors:
 - 
 tags:
 - 
-weight: 
-external_link: "https://www.cafirma.org"
+weight: 3
+external_link: "/project/"
 show_date: false
 # links:
 #   - icon_pack: fas

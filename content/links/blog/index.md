@@ -1,12 +1,12 @@
 ---
-title: "batang 90s"
+title: "Blog"
 summary: ""
 authors:
 - 
 tags:
 - 
-weight: 
-external_link: "https://batang90s.com"
+weight: 2
+external_link: "/post/"
 show_date: false
 # links:
 #   - icon_pack: fas

@@ -1,12 +1,12 @@
 ---
-title: "Abakada"
+title: "Portfolio"
 summary: ""
 authors:
 - 
 tags:
 - 
-weight: 
-external_link: "https://abakada.org"
+weight: 1
+external_link: "/project/"
 show_date: false
 # links:
 #   - icon_pack: fas

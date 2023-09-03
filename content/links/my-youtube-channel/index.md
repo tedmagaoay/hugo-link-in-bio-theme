@@ -1,12 +1,12 @@
 ---
-title: "Inkscape Logo Design Tutorials"
+title: "My Youtube Channel"
 summary: ""
 authors:
 - 
 tags:
 - 
-weight: 
-external_link: "https://www.youtube.com/c/TedMagaoay"
+weight: 6
+external_link: "https://youtu.be/w7Ft2ymGmfc"
 show_date: false
 # links:
 #   - icon_pack: fas

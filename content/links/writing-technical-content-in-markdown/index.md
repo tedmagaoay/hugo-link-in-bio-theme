@@ -5,7 +5,7 @@ authors:
 - 
 tags:
 - 
-weight: 
+weight: 5
 external_link: "/post/writing-technical-content"
 show_date: false
 # links:

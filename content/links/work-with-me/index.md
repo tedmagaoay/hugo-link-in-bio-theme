@@ -1,12 +1,12 @@
 ---
-title: "NBI Clearance No-BS Guide"
+title: "Work With Me"
 summary: ""
 authors:
 - 
 tags:
 - 
-weight: 
-external_link: "https://nbiclearance.blog"
+weight: 9
+external_link: "/about/#contact"
 show_date: false
 # links:
 #   - icon_pack: fas

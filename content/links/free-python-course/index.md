@@ -1,12 +1,12 @@
 ---
-title: "devnotes"
+title: "Free Python Course!"
 summary: ""
 authors:
 - 
 tags:
 - 
-weight: 
-external_link: "https://devnotes.magaoay.org/"
+weight: 4
+external_link: "https://hugo-online-course.netlify.app/"
 show_date: false
 # links:
 #   - icon_pack: fas
